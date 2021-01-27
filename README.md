@@ -10,13 +10,8 @@ Program ini dibuat untuk menyelesaikan permasalahan cryptarithmetic dengan dua b
 ## How to Use
 1. Simpan execute file (Cryptarithmethic.exe) dengan testing file (test.txt) dalam folder yang sama.
 2. Tuliskan operasi penjumlahan yang ingin dites pada file testing.
-3. Format penulisan sebagai berikut :
-> OPERAN1
-> OPERAN2
-> -------+
-> OPERAN3
-4. Save file testing
-5. Jalankan execute file
+3. Save file testing
+4. Jalankan execute file
 
 ## Author
 Hughie Alghaniyyu Emiliano / 13519217
