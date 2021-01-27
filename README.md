@@ -1,1 +1,0 @@
-# TugasKecil1Stima
