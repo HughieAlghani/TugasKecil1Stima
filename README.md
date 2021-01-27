@@ -11,10 +11,10 @@ Program ini dibuat untuk menyelesaikan permasalahan cryptarithmetic dengan dua b
 1. Simpan execute file (Cryptarithmethic.exe) dengan testing file (test.txt) dalam folder yang sama.
 2. Tuliskan operasi penjumlahan yang ingin dites pada file testing.
 3. Format penulisan sebagai berikut :
-##### OPERAN1
-##### OPERAN2
-##### -------+
-##### OPERAN3
+> OPERAN1
+> OPERAN2
+> -------+
+> OPERAN3
 4. Save file testing
 5. Jalankan execute file
 
