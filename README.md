@@ -1,6 +1,6 @@
 # Tugas Kecil 1 Stima
 
-## Deskripi Program
+## Deskripsi Program
 Program ini dibuat untuk menyelesaikan permasalahan cryptarithmetic dengan dua buah operan.
 
 ## Requirement Program
