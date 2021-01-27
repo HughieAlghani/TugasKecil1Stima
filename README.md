@@ -1,1 +1,1 @@
-# TugasKecil1Stima
+# Tugas Kecil 1 Stima
